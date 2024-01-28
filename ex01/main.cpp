@@ -1,6 +1,6 @@
 #include "iter.hpp"
 
-int mai (void)
+int main (void)
 {
     
     return (0);
